@@ -1,0 +1,13 @@
+.contentForm{
+    width: 50%;
+    height: 200px;
+    background: #0000004b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    gap: 20px;
+    
+}
